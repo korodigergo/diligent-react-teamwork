@@ -11,4 +11,24 @@ export const toDoList: ToDo[] = [
     title: "Do the laundry",
     completed: true,
   },
+  {
+    id: 3,
+    title: "Do the laundry",
+    completed: true,
+  },
+  {
+    id: 4,
+    title: "Do the laundry",
+    completed: true,
+  },
+  {
+    id: 5,
+    title: "Do the laundry",
+    completed: true,
+  },
+  {
+    id: 6,
+    title: "Do the laundry",
+    completed: true,
+  },
 ];
